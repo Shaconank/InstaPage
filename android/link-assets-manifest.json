@@ -1,0 +1,33 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/fonts/Beautiful People Personal Use.ttf",
+      "sha1": "ace353ad1b6e480c44b1af059b9ad1ede577d894"
+    },
+    {
+      "path": "src/fonts/Instagram Heading.ttf",
+      "sha1": "ace353ad1b6e480c44b1af059b9ad1ede577d894"
+    },
+    {
+      "path": "src/fonts/Instagram Sans Bold.ttf",
+      "sha1": "4d2bd90f81f9df28b3be0388c5648f9886d0e166"
+    },
+    {
+      "path": "src/fonts/Instagram Sans Headline.ttf",
+      "sha1": "cae5b074fca23d1a7cb1789eec5dfae30c0344af"
+    },
+    {
+      "path": "src/fonts/Instagram Sans Light.ttf",
+      "sha1": "fec660ad10b606d8afdabf4a32264f21a0d32c60"
+    },
+    {
+      "path": "src/fonts/Instagram Sans.ttf",
+      "sha1": "8ec84821639693fc7c8162b2620e89834ca202ef"
+    },
+    {
+      "path": "src/fonts/Vegan Style Personal Use.ttf",
+      "sha1": "fdb485ed782ff81387a3b9e6cdf1da339827b271"
+    }
+  ]
+}
